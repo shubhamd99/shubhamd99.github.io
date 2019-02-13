@@ -1,1 +1,1 @@
-https://shubhamd99.github.io/portfolioOne/
+https://shubhamd99.github.io/imageOne/
