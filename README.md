@@ -4,6 +4,7 @@
 # Link - https://react-my-burger-2bd9e.firebaseapp.com/
 # Link - https://shubhamd99.github.io/chat-room-react/
 # Link - https://shubhamd99.github.io/article-blog
+# Link - Link - https://shubhamd99.github.io/loan-calculator/
 # Link - https://shubhamd99.github.io/myportfolio/
 # Link - https://shubhamd99.github.io/weatherapp/
 # Link - https://shubhamd99.github.io/Countdown/
