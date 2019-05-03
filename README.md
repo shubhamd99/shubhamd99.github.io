@@ -17,6 +17,7 @@
 # Link - https://shubhamd99.github.io/robofriends/
 # Link - https://github.com/shubhamd99/todoapp-reactnative
 # Link - https://shubhamd99.github.io/firebase-auth/
+# Link - https://github.com/shubhamd99/first-ionic-angular-app
 # Link - https://shubhamd99.github.io/blogpost-redux/
 # Link - https://shubhamd99.github.io/songlist-redux/
 # Link - https://shubhamd99.github.io/imageOne
